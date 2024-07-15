@@ -1,5 +1,5 @@
 # speech_recognition
-This repository includes the second task which contains the HTML, CSS, and database files to capture the user's voice and convert it to text 
+This repository includes the second task which contains the HTML, CSS, and database files to capture the user's voice and convert it to text and save it to the database 
 
 Step one:
 Building an HTML page and styling the page with CSS.
